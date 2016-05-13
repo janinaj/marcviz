@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link href='/css/site.css' rel='stylesheet' type='text/css' />
+    <script src="/js/d3.min.js"></script>
+    <script src="/js/site.js"></script>
+  </head>
+  <body onload="loadPage()">
+    <div id="title-outer">    
+      <div id="title-inner">
+        <p id="graph-title"></p>
+        <div id="field-options">
+          <select id="chart-type" onchange="updateChart()">
+            <option value="record_occurrence">Occurrence in Records</option>
+            <option value="total_count">Total Count</option>
+          </select>
+        </div>
+        <div id="value-options">
+          <label for="regex">Regex:/</label>
+          <input type="text" id="regex">/
+          <button onclick="showRegexCount()">Submit</button>
+        </div>
+        <button onclick="reset()">Reset</button>
+      </div>
+    </div>
+    <div id="viz">
+      <div id="chart"></div>
+      <div id="element-filter">
+        <div class="list">
+          <p>Hidden from chart</p>
+          <select multiple id="exclude" class="elements"></select>
+        </div>
+        <div id="btn">
+          <button title="Exclude from chart" onclick="updateIncludedFields('include', 'exclude')">&lt;&lt;</button>
+          <button title="Include in chart" onclick="updateIncludedFields('exclude', 'include')">&gt;&gt;</button>
+        </div>
+        <div class="list">
+          <p>Shown in chart</p>
+          <select multiple id="include" class="elements"></select>  
+        </div>
+      </div>  
+    </div>
+  </body>
+</html>

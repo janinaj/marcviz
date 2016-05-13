@@ -1,0 +1,91 @@
+body {
+  /*width: 100%;*/
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 20px;
+  text-align: center;
+}
+
+#title-outer {
+  text-align: center;
+}
+
+#title-inner {
+  display: inline-block;
+}
+
+#viz {
+  display: flex;
+}
+
+#chart {
+  /*display: flex;*/
+  width: 60%;
+  overflow-x: scroll;
+}
+
+.bar {
+  fill: royalblue;
+}
+
+.bar:hover {
+  fill: firebrick;
+}
+
+.axis {
+  font-size: 12px;
+}
+
+.unknown {
+  fill: red;
+}
+
+.axis path {
+  fill: none;
+  stroke: black;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.tooltip {
+	position: absolute;
+  width: auto;
+  background: powderblue;
+  color: black;
+  padding: 10px;
+  font-size: 12px;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.tooltip a, a:link, a:hover, a:visited, a:active {
+  text-decoration: none;
+}
+
+
+#element-filter {
+  display: flex;
+  width: 40%;
+}
+
+#element-filter .list {
+  width: 40%;
+  text-align: center;
+}
+
+#element-filter select[multiple] {
+  display: block;
+  width: 100%;
+}
+
+#element-filter #btn {
+  margin-top: 10%;
+}
+
+#element-filter button {
+  margin: 5px;
+}

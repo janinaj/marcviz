@@ -1,0 +1,2579 @@
+{
+	"210": {
+		"ind1": {
+			"1": "Added entry",
+			"0": "No added entry"
+		},
+		"subfields": {
+			"a": "Abbreviated title (NR)",
+			"2": "Source (R)",
+			"b": "Qualifying information (NR)",
+			"8": "Field link and sequence number(R)",
+			"6": "Linkage(NR)"
+		},
+		"description": "Abbreviated Title (R)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"762": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"760": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"022": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "International Standard Serial Number (NR)",
+			"m": "Canceled ISSN-L (R)",
+			"l": "ISSN-L (NR)",
+			"2": "Source (NR)",
+			"6": "Linkage (NR)",
+			"y": "Incorrect ISSN (R)",
+			"8": "Field link and sequence number(R)",
+			"z": "Canceled ISSN (R)"
+		},
+		"description": "International Standard Serial Number (R)",
+		"ind2": {
+			"1": "Universal Product Code",
+			"0": "International Standard Recording Code",
+			"3": "International Article Number",
+			"2": "International Standard Music Number",
+			"4": "Serial Item and Contribution Identifier",
+			"7": "Source specified in subfield $2",
+			"8": "Unspecified type of standard number or code"
+		}
+	},
+	"662": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"1": "Surname",
+			"0": "Forename",
+			"3": "Family name"
+		}
+	},
+	"765": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"010": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "LC control number (NR)",
+			"8": "Field link and sequence number (R)",
+			"b": "NUCMC control number (R)",
+			"z": "Canceled/invalid LC control number (R)"
+		},
+		"description": "Library of Congress Control Number(NR)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"013": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Number (NR)",
+			"c": "Type of number (NR)",
+			"b": "Country (NR)",
+			"e": "Status (R)",
+			"d": "Date (R)",
+			"f": "Party to document (R)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number (R)"
+		},
+		"description": "Patent Control Information (R)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"015": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "National bibliography number (R)",
+			"q": "Qualifying information(R)",
+			"2": "Source(NR)",
+			"6": "Linkage(NR)",
+			"8": "Field link and sequence number(R)",
+			"z": "Canceled/invalid national bibliography number(R)"
+		},
+		"description": "National Bibliography Number (R)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"016": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Record control number (NR)",
+			"2": "Source (NR)",
+			"z": "Canceled/invalid control number (R)",
+			"8": "Field link and sequence number (R)"
+		},
+		"description": "National Bibliographic Agency Control Number (R)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"017": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Copyright or legal deposit number (R)",
+			"b": "Assigning agency (NR)",
+			"d": "Date (NR)",
+			"i": "Display text (NR)",
+			"2": "Source (NR)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number (R)",
+			"z": "Canceled/invalid copyright or legal deposit number (R)"
+		},
+		"description": "Copyright or Legal Deposit Number (R)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"018": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Copyright article-fee code (NR)",
+			"8": "Field link and sequence number(R)",
+			"6": "Linkage (NR)"
+		},
+		"description": "Copyright Article-Fee Code (NR)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"490": {
+		"ind1": {
+			"1": "Series traced",
+			"0": "Series not traced"
+		},
+		"subfields": {
+			"a": "Series statement (R)",
+			"v": "Volume/sequential designation (R)",
+			"l": "Library of Congress call number (NR)",
+			"3": "Materials specified (NR)",
+			"8": "Field link and sequence number (R)",
+			"6": "Linkage (NR)",
+			"x": "International Standard Serial Number (R)"
+		},
+		"description": "Series Statement (R)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"610": {
+		"ind1": {
+			"1": "Jurisdiction name",
+			"0": "Inverted name",
+			"2": "Name in direct order"
+		},
+		"subfields": {
+			"0": "Authority record control number or standard number(R)",
+			"3": "Materials specified(NR)",
+			"2": "Source of heading or term(NR)",
+			"4": "Relator code(R)",
+			"6": "Linkage(NR)",
+			"8": "Field link and sequence number(R)",
+			"a": "Corporate name or jurisdiction name as entry element(NR)",
+			"c": "Location of meeting(R)",
+			"b": "Subordinate unit(R)",
+			"e": "Relator term(R)",
+			"d": "Date of meeting or treaty signing(R)",
+			"g": "Miscellaneous information(R)",
+			"f": "Date of a work(NR)",
+			"h": "Medium(NR)",
+			"k": "Form subheading(R)",
+			"m": "Medium of performance for music(R)",
+			"l": "Language of a work(NR)",
+			"o": "Arranged statement for music(NR)",
+			"n": "Number of part/section/meeting(R)",
+			"p": "Name of part/section of a work(R)",
+			"s": "Version(NR)",
+			"r": "Key for music(NR)",
+			"u": "Affiliation(NR)",
+			"t": "Title of a work(NR)",
+			"v": "Form subdivision(R)",
+			"y": "Chronological subdivision(R)",
+			"x": "General subdivision(R)",
+			"z": "Geographic subdivision(R)"
+		},
+		"description": "Subject Added Entry-Corporate Name(R)",
+		"ind2": {}
+	},
+	"650": {
+		"ind1": {
+			"1": "Primary",
+			"0": "No level specified",
+			"#": "No information provided",
+			"2": "Secondary"
+		},
+		"subfields": {
+			"a": "Topical term or geographic name entry element(NR)",
+			"c": "Location of event(NR)",
+			"b": "Topical term following geographic name entry element(NR)",
+			"e": "Relator term(R)",
+			"d": "Active dates(NR)",
+			"g": "Miscellaneous information(R)",
+			"6": "Linkage (NR)",
+			"0": "Authority record control number or standard number(R)",
+			"3": "Materials specified(NR)",
+			"2": "Source of heading or term(NR)",
+			"4": "Relator code(R)",
+			"v": "Form subdivision(R)",
+			"y": "Chronological subdivision(R)",
+			"x": "General subdivision(R)",
+			"z": "Geographic subdivision(R)",
+			"8": "Field link and sequence number (R)"
+		},
+		"description": "Subject Added Entry-Topical Term(R)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"386": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"344": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"345": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"346": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"347": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"340": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"547": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"342": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"343": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"810": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"811": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"348": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"521": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"336": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"711": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"710": {
+		"ind1": {
+			"1": "Jurisdiction name",
+			"0": "Inverted name",
+			"2": "Name in direct order"
+		},
+		"subfields": {
+			"0": "Authority record control number or standard number(R)",
+			"3": "Materials specified(NR)",
+			"5": "Institution to which field applies(NR)",
+			"4": "Relator code(R)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number (R)",
+			"a": "Corporate name or jurisdiction name as entry element(NR)",
+			"c": "Location of meeting(R)",
+			"b": "Subordinate unit(R)",
+			"e": "Relator term(R)",
+			"d": "Date of meeting or treaty signing(R)",
+			"g": "Miscellaneous information(R)",
+			"f": "Date of a work(NR)",
+			"i": "Relationship information(R)",
+			"h": "Medium(NR)",
+			"k": "Form subheading(R)",
+			"m": "Medium of performance for music(R)",
+			"l": "Language of a work(NR)",
+			"o": "Arranged statement for music(NR)",
+			"n": "Number of part/section of a work(R)",
+			"p": "Name of part/section of a work(R)",
+			"s": "Version(NR)",
+			"r": "Key for music(NR)",
+			"u": "Affiliation(NR)",
+			"t": "Title of a work(NR)",
+			"x": "International Standard Serial Number(NR)"
+		},
+		"description": "Added Entry-Corporate Name(R)",
+		"ind2": {}
+	},
+	"025": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Overseas acquisition number (R)",
+			"8": "Field link and sequence number (R)"
+		},
+		"description": "Overseas Acquisition Number (R)",
+		"ind2": {}
+	},
+	"024": {
+		"ind1": {
+			"1": "Universal Product Code",
+			"0": "International Standard Recording Code",
+			"3": "International Article Number",
+			"2": "International Standard Music Number",
+			"4": "Serial Item and Contribution Identifier",
+			"7": "Source specified in subfield $2",
+			"8": "Unspecified type of standard number or code"
+		},
+		"subfields": {
+			"a": "Standard number or code(NR)",
+			"c": "Terms of availability(NR)",
+			"d": "Additional codes following the standard number or code(NR)",
+			"q": "Qualifying information(R)",
+			"2": "Source of number or code(NR)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number(R)",
+			"z": "Canceled/invalid standard number or code(R)"
+		},
+		"description": "Other Standard Identifier(R)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"027": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"260": {
+		"ind1": {
+			"#": "Not applicable/No information provided/Earliest available publisher",
+			"2": "Intervening publisher",
+			"3": "Current/latest publisher"
+		},
+		"subfields": {
+			"a": "Place of publication, distribution, etc. (R)",
+			"c": "Date of publication, distribution, etc. (R)",
+			"b": "Name of publisher, distributor, etc. (R)",
+			"e": "Place of manufacture (R)",
+			"g": "Date of manufacture (R)",
+			"f": "Manufacturer (R)",
+			"3": "Materials specified (NR)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number (R)"
+		},
+		"description": "Publication, Distribution, etc. (Imprint) (R)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"020": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "International Standard Book Number(NR)",
+			"c": "Terms of availability(NR)",
+			"q": "Qualifying information(R)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number(R)",
+			"z": "Canceled/invalid ISBN(R)"
+		},
+		"description": "International Standard Book Number(R)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"264": {
+		"ind1": {
+			"#": "Not applicable/No information provided/Earliest",
+			"2": "Intervening",
+			"3": "Current/Latest"
+		},
+		"subfields": {
+			"a": "Place of production, publication, distribution, manufacture (R)",
+			"c": "Date of production, publication, distribution, manufacture, or copyright notice (R)",
+			"b": "Name of producer, publisher, distributor, manufacturer (R)",
+			"3": "Materials specified (NR)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number (R)"
+		},
+		"description": "Production, Publication, Distribution, Manufacture, and Copyright Notice (R)",
+		"ind2": {
+			"1": "Primary",
+			"#": "No level specified",
+			"2": "Secondary"
+		}
+	},
+	"767": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"028": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"855": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"#": "No information provided",
+			"1": "FTP",
+			"0": "Email?",
+			"3": "Dial-up",
+			"2": "Remote login (Telnet)?",
+			"4": "HTTP",
+			"7": "Method specified in subfield $2"
+		}
+	},
+	"536": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"535": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"130": {
+		"ind1": {
+			"1": "Number of nonfiling characters",
+			"0": "Number of nonfiling characters",
+			"3": "Number of nonfiling characters",
+			"2": "Number of nonfiling characters",
+			"5": "Number of nonfiling characters",
+			"4": "Number of nonfiling characters",
+			"7": "Number of nonfiling characters",
+			"6": "Number of nonfiling characters",
+			"9": "Number of nonfiling characters",
+			"8": "Number of nonfiling characters"
+		},
+		"subfields": {
+			"a": "Uniform title(NR)",
+			"0": "Authority record control number or standard number (R)",
+			"d": "Date of treaty signing(R)",
+			"g": "Miscellaneous information(R)",
+			"f": "Date of a work(NR)",
+			"h": "Medium(NR)",
+			"k": "Form subheading(R)",
+			"m": "Medium of performance for music(R)",
+			"l": "Language of a work(NR)",
+			"o": "Arranged statement for music(NR)",
+			"n": "Number of part/section of a work(R)",
+			"p": "Name of part/section of a work(R)",
+			"s": "Version(NR)",
+			"r": "Key for music(NR)",
+			"t": "Title of a work(NR)",
+			"6": "Linkage(NR)",
+			"8": "Field link and sequence number(R)"
+		},
+		"description": "Main Entry-Uniform Title(NR)",
+		"ind2": {
+			"1": "Added entry",
+			"0": "No added entry"
+		}
+	},
+	"533": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"530": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"370": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"377": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"538": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "System details note (NR)",
+			"i": "Display text (NR)",
+			"3": "Materials specified (NR)",
+			"5": "Institution to which field applies (R)",
+			"8": "Field link and sequence number (R)",
+			"6": "Linkage (NR)",
+			"u": "Uniform Resource Identifier (R)"
+		},
+		"description": "System Details Note (R)",
+		"ind2": {}
+	},
+	"310": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Current publication frequency (NR)",
+			"8": "Field link and sequence number (R)",
+			"b": "Date of current publication frequency (NR)",
+			"6": "Linkage (NR)"
+		},
+		"description": "Current Publication Frequency (NR)",
+		"ind2": {}
+	},
+	"700": {
+		"ind1": {
+			"1": "Surname",
+			"0": "Forename",
+			"3": "Family name"
+		},
+		"subfields": {
+			"0": "Authority record control number or standard number(R)",
+			"3": "Materials specified(NR)",
+			"5": "Institution to which field applies(NR)",
+			"4": "Relator code(R)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number (R)",
+			"a": "Personal name(NR)",
+			"c": "Titles and other words associated with a name(R)",
+			"b": "Numeration(NR)",
+			"e": "Relator term(R)",
+			"d": "Dates associated with a name(NR)",
+			"g": "Miscellaneous information(R)",
+			"f": "Date of a work(NR)",
+			"i": "Relationship information(R)",
+			"h": "Medium(NR)",
+			"k": "Form subheading(R)",
+			"j": "Attribution qualifier(R)",
+			"m": "Medium of performance for music(R)",
+			"l": "Language of a work(NR)",
+			"o": "Arranged statement for music(NR)",
+			"n": "Number of part/section of a work(R)",
+			"q": "Fuller form of name(NR)",
+			"p": "Name of part/section of a work(R)",
+			"s": "Version(NR)",
+			"r": "Key for music(NR)",
+			"u": "Affiliation(NR)",
+			"t": "Title of a work(NR)",
+			"x": "International Standard Serial Number(NR)"
+		},
+		"description": "Added Entry-Personal Name(R)",
+		"ind2": {
+			"1": "Jurisdiction name",
+			"0": "Inverted name",
+			"2": "Name in direct order"
+		}
+	},
+	"270": {
+		"ind1": {
+			"1": "Primary",
+			"#": "No level specified",
+			"2": "Secondary"
+		},
+		"subfields": {
+			"a": "Address (R)",
+			"c": "State or province (NR)",
+			"b": "City (NR)",
+			"e": "Postal code (NR) ",
+			"d": "Country (NR)",
+			"g": "Attention name (NR)",
+			"f": "Terms preceding attention name (NR)",
+			"i": "Type of address (NR) ",
+			"h": "Attention position (NR)",
+			"k": "Telephone number (R)",
+			"j": "Specialized telephone number (R) ",
+			"m": "Electronic mail address (R) ",
+			"l": "Fax number (R) ",
+			"n": "TDD or TTY number (R)",
+			"q": "Title of contact person (R) ",
+			"p": "Contact person (R) ",
+			"r": "Hours (R) ",
+			"4": "Relator code (R) ",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number (R)",
+			"z": "Public note (R) "
+		},
+		"description": "Address (R)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"038": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"776": {
+		"ind1": {
+			"1": "Do not display note",
+			"0": "Display note"
+		},
+		"subfields": {
+			"4": "Relationship code (R)",
+			"7": "Control subfield (NR)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number (R)",
+			"a": "Main entry heading (NR)",
+			"c": "Qualifying information (NR)",
+			"b": "Edition (NR)",
+			"d": "Place, publisher, and date of publication (NR)",
+			"g": "Related parts (R)",
+			"i": "Relationship information (R)",
+			"h": "Physical description (NR)",
+			"k": "Series data for related item (R)",
+			"m": "Material-specific details (NR)",
+			"o": "Other item identifier (R)",
+			"n": "Note (R)",
+			"s": "Uniform title (NR)",
+			"r": "Report number (R)",
+			"u": "Standard Technical Report Number (NR)",
+			"t": "Title (NR)",
+			"w": "Record control number (R)",
+			"y": "CODEN designation (NR)",
+			"x": "International Standard Serial Number (NR)",
+			"z": "International Standard Book Number (R)"
+		},
+		"description": "Additional Physical Form Entry (R)",
+		"ind2": {}
+	},
+	"111": {
+		"ind1": {
+			"1": "Jurisdiction name",
+			"0": "Inverted name",
+			"2": "Name in direct order"
+		},
+		"subfields": {
+			"a": "Meeting name or jurisdiction name as entry element (NR)",
+			"c": "Location of meeting(R)",
+			"e": "Subordinate unit(R)",
+			"d": "Date of meeting(NR)",
+			"g": "Miscellaneous information(R)",
+			"f": "Date of a work(NR)",
+			"k": "Form subheading(R)",
+			"j": "Relator term(R)",
+			"0": "Authority record control number or standard number (R)",
+			"l": "Language of a work(NR)",
+			"n": "Number of part/section/meeting(R)",
+			"q": "Name of meeting following jurisdiction name entry element(NR)",
+			"p": "Name of part/section of a work(R)",
+			"u": "Affiliation(NR)",
+			"t": "Title of a work(NR)",
+			"6": "Linkage(NR)",
+			"8": "Field link and sequence number(R)",
+			"4": "Relator code(R)"
+		},
+		"description": "Main Entry-Meeting Name(NR)",
+		"ind2": {
+			"1": "Number of nonfiling characters",
+			"0": "Number of nonfiling characters",
+			"3": "Number of nonfiling characters",
+			"2": "Number of nonfiling characters",
+			"5": "Number of nonfiling characters",
+			"4": "Number of nonfiling characters",
+			"7": "Number of nonfiling characters",
+			"6": "Number of nonfiling characters",
+			"9": "Number of nonfiling characters",
+			"8": "Number of nonfiling characters"
+		}
+	},
+	"110": {
+		"ind1": {
+			"1": "Jurisdiction name",
+			"0": "Inverted name",
+			"2": "Name in direct order"
+		},
+		"subfields": {
+			"a": "Corporate name or jurisdiction name as entry element(NR)",
+			"c": "Location of meeting(R)",
+			"b": "Subordinate unit(R)",
+			"e": "Relator term(R)",
+			"d": "Date of meeting or treaty signing(R)",
+			"g": "Miscellaneous information(R)",
+			"f": "Date of a work(NR)",
+			"k": "Form subheading(R)",
+			"0": "Authority record control number or standard number(R)",
+			"l": "Language of a work(NR)",
+			"n": "Number of part/section/meeting(R)",
+			"p": "Name of part/section of a work(R)",
+			"u": "Affiliation(NR)",
+			"t": "Title of a work(NR)",
+			"6": "Linkage(NR)",
+			"8": "Field link and sequence number(R)",
+			"4": "Relator code(R)"
+		},
+		"description": "Main Entry-Corporate Name(NR)",
+		"ind2": {
+			"1": "Jurisdiction name",
+			"0": "Inverted name",
+			"2": "Name in direct order"
+		}
+	},
+	"032": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"033": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"030": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "CODEN (NR)",
+			"8": "Field link and sequence number (R)",
+			"z": "Canceled/invalid CODEN (R)",
+			"6": "Linkage (NR)"
+		},
+		"description": "CODEN Designation (R)",
+		"ind2": {}
+	},
+	"031": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"036": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"037": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"034": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"035": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "System control number (NR) ",
+			"8": "Field link and sequence number(R)",
+			"z": "Canceled/invalid control number (R) ",
+			"6": "Linkage (NR)"
+		},
+		"description": "System Control Number (R)",
+		"ind2": {}
+	},
+	"752": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"830": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"256": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Computer file characteristics (NR)",
+			"8": "Field link and sequence number (R)",
+			"6": "Linkage (NR)"
+		},
+		"description": "Computer File Characteristics (NR)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"257": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Country of producing entity (R)",
+			"8": "Field link and sequence number (R)",
+			"2": "Source (NR)",
+			"6": "Linkage (NR)"
+		},
+		"description": "Country of Producing Entity (R)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"524": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"525": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"526": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"534": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"520": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"052": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"522": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"366": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"365": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"362": {
+		"ind1": {
+			"1": "Unformatted note",
+			"0": "Formatted style"
+		},
+		"subfields": {
+			"a": "Dates of publication and/or sequential designation (NR)",
+			"8": "Field link and sequence number (R)",
+			"z": "Source of information (NR)",
+			"6": "Linkage (NR)"
+		},
+		"description": "Dates of Publication and/or Sequential Designation (R)",
+		"ind2": {}
+	},
+	"363": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"586": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"584": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"585": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"583": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"580": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"581": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"300": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Extent (R)",
+			"c": "Dimensions (R)",
+			"b": "Other physical details (NR)",
+			"e": "Accompanying material (NR)",
+			"g": "Size of unit (R)",
+			"f": "Type of unit (R)",
+			"3": "Materials specified (NR)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number (R)"
+		},
+		"description": "Physical Description (R)",
+		"ind2": {}
+	},
+	"785": {
+		"ind1": {
+			"1": "Do not display note",
+			"0": "Display note"
+		},
+		"subfields": {
+			"4": "Relationship code (R)",
+			"7": "Control subfield (NR)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number (R)",
+			"a": "Main entry heading (NR)",
+			"c": "Qualifying information (NR)",
+			"b": "Edition (NR)",
+			"d": "Place, publisher, and date of publication (NR)",
+			"g": "Related parts (R)",
+			"i": "Relationship information (R)",
+			"h": "Physical description (NR)",
+			"k": "Series data for related item (R)",
+			"m": "Material-specific details (NR)",
+			"o": "Other item identifier (R)",
+			"n": "Note (R)",
+			"s": "Uniform title (NR)",
+			"r": "Report number (R)",
+			"u": "Standard Technical Report Number (NR)",
+			"t": "Title (NR)",
+			"w": "Record control number (R)",
+			"y": "CODEN designation (NR)",
+			"x": "International Standard Serial Number (NR)",
+			"z": "International Standard Book Number (R)"
+		},
+		"description": "Succeeding Entry",
+		"ind2": {}
+	},
+	"306": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"307": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"245": {
+		"ind1": {
+			"1": "Added entry",
+			"0": "No added entry"
+		},
+		"subfields": {
+			"a": "Title (NR)",
+			"c": "Statement of responsibility, etc. (NR)",
+			"b": "Remainder of title (NR)",
+			"g": "Bulk dates (NR)",
+			"f": "Inclusive dates (NR)",
+			"h": "Medium(NR)",
+			"k": "Form (R)",
+			"n": "Number of part/section of a work(R)",
+			"p": "Name of part/section of a work(R)",
+			"s": "Version(NR)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number (R)"
+		},
+		"description": "Title Statement (NR)",
+		"ind2": {
+			"1": "Note, added entry",
+			"0": "Note, no added entry",
+			"3": "No note, added entry",
+			"2": "No note, no added entry"
+		}
+	},
+	"381": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"247": {
+		"ind1": {
+			"1": "Added entry",
+			"0": "No added entry"
+		},
+		"subfields": {
+			"a": "Title(NR)",
+			"b": "Remainder of title(NR)",
+			"g": "Miscellaneous information(R)",
+			"f": "Date or sequential designation(NR)",
+			"h": "Medium(NR)",
+			"n": "Number of part/section of a work(R)",
+			"p": "Name of part/section of a work(R)",
+			"8": "Field link and sequence number (R)",
+			"6": "Linkage (NR)",
+			"x": "International Standard Serial Number(NR)"
+		},
+		"description": "Former Title(R)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"246": {
+		"ind1": {
+			"1": "Note, added entry",
+			"0": "Note, no added entry",
+			"3": "No note, added entry",
+			"2": "No note, no added entry"
+		},
+		"subfields": {
+			"a": "Title proper/short title(NR)",
+			"b": "Remainder of title(NR)",
+			"g": "Miscellaneous information(R)",
+			"f": "Date or sequential designation(NR)",
+			"i": "Display text(NR)",
+			"h": "Medium(NR)",
+			"n": "Number of part/section of a work(R)",
+			"p": "Name of part/section of a work(R)",
+			"5": "Institution to which field applies(NR)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number (R)"
+		},
+		"description": "Varying Form of Title(R)",
+		"ind2": {
+			"1": "Added entry",
+			"0": "No added entry"
+		}
+	},
+	"384": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"240": {
+		"ind1": {
+			"1": "Printed or displayed",
+			"0": "Not printed or displayed"
+		},
+		"subfields": {
+			"a": "Uniform title(NR)",
+			"0": "Authority record control number or standard number (R)",
+			"d": "Date of treaty signing(R)",
+			"g": "Miscellaneous information(R)",
+			"f": "Date of a work(NR)",
+			"h": "Medium(NR)",
+			"k": "Form subheading(R)",
+			"m": "Medium of performance for music(R)",
+			"l": "Language of a work(NR)",
+			"o": "Arranged statement for music(NR)",
+			"n": "Number of part/section of a work(R)",
+			"p": "Name of part/section of a work(R)",
+			"s": "Version(NR)",
+			"r": "Key for music(NR)",
+			"6": "Linkage(NR)",
+			"8": "Field link and sequence number(R)"
+		},
+		"description": "Uniform Title(NR)",
+		"ind2": {
+			"1": "Added entry",
+			"0": "No added entry"
+		}
+	},
+	"243": {
+		"ind1": {
+			"1": "Printed or displayed",
+			"0": "Not printed or displayed"
+		},
+		"subfields": {
+			"a": "Uniform title(NR)",
+			"d": "Date of treaty signing(R)",
+			"g": "Miscellaneous information(R)",
+			"f": "Date of a work(NR)",
+			"h": "Medium(NR)",
+			"k": "Form subheading(R)",
+			"m": "Medium of performance for music?",
+			"l": "Language of a work(NR)",
+			"o": "Arranged statement for music(NR)",
+			"n": "Number of part/section of a work(R)",
+			"p": "Name of part/section of a work(R)",
+			"s": "Version(NR)",
+			"r": "Key for music(NR)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number (R)"
+		},
+		"description": "Collective Uniform Title(NR)",
+		"ind2": {
+			"1": "Added entry",
+			"0": "No added entry"
+		}
+	},
+	"048": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"1": "Item is not in LC ",
+			"0": "Item is in LC",
+			"#": "No information provided "
+		}
+	},
+	"047": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"046": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"100": {
+		"ind1": {
+			"1": "Surname",
+			"0": "Forename",
+			"3": "Family name"
+		},
+		"subfields": {
+			"a": "Personal name(NR)",
+			"c": "Titles and words associated with a name(R)",
+			"b": "Numeration(NR)",
+			"e": "Relator term(R)",
+			"d": "Dates associated with a name(NR)",
+			"g": "Miscellaneous information(R)",
+			"f": "Date of a work(NR)",
+			"k": "Form subheading(R)",
+			"j": "Attribution qualifier(R)",
+			"0": "Authority record control number or standard number?",
+			"l": "Language of a work(NR)",
+			"n": "Number of part/section of a work(R)",
+			"q": "Fuller form of name(NR)",
+			"p": "Name of part/section of a work(R)",
+			"u": "Affiliation(NR)",
+			"t": "Title of a work(NR)",
+			"6": "Linkage(NR)",
+			"8": "Field link and sequence number(R)",
+			"4": "Relator code(R)"
+		},
+		"description": "Main Entry - Personal Name(NR)",
+		"ind2": {
+			"1": "Jurisdiction name",
+			"0": "Inverted name",
+			"2": "Name in direct order"
+		}
+	},
+	"044": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"043": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Geographic area code (R)",
+			"c": "ISO code (R)",
+			"b": "Local GAC code (R)",
+			"0": "Authority record control number or standard number (R)",
+			"2": "Source of local code (R)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number (R)"
+		},
+		"description": "Geographic Area Code(NR)",
+		"ind2": {}
+	},
+	"042": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Authentication code (R)"
+		},
+		"description": "Authentication Code (NR)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"041": {
+		"ind1": {
+			"1": "Item is or includes a translation",
+			"0": "Item not a translation/does not include a translation",
+			"#": "No information provided"
+		},
+		"subfields": {
+			"a": "Language code of text/sound track or separate title(R)",
+			"b": "Language code of summary or abstract(R)",
+			"e": "Language code of librettos(R)",
+			"d": "Language code of sung or spoken text(R)",
+			"g": "Language code of accompanying material other than librettos(R)",
+			"f": "Language code of table of contents(R)",
+			"h": "Language code of original(R)",
+			"k": "Language code of intermediate translations(R)",
+			"j": "Language code of subtitles or captions(R)",
+			"m": "Language code of original accompanying materials other than librettos(R)",
+			"n": "Language code of original libretto(R)",
+			"2": "Source of code(NR)",
+			"6": "Linkage(NR)",
+			"8": "Field link and sequence number(R)"
+		},
+		"description": "Language Code(R)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"040": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Original cataloging agency (NR)",
+			"c": "Transcribing agency (NR)",
+			"b": "Language of cataloging (NR)",
+			"e": "Description conventions (R)",
+			"d": "Modifying agency (R)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number(R)"
+		},
+		"description": "Cataloging Source (NR)",
+		"ind2": {
+			"1": "Item is or includes a translation",
+			"0": "Item not a translation/does not include a translation",
+			"#": "No information provided"
+		}
+	},
+	"380": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"786": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"787": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"780": {
+		"ind1": {
+			"1": "Do not display note",
+			"0": "Display note"
+		},
+		"subfields": {
+			"4": "Relationship code (R)",
+			"7": "Control subfield (NR)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number (R)",
+			"a": "Main entry heading (NR)",
+			"c": "Qualifying information (NR)",
+			"b": "Edition (NR)",
+			"d": "Place, publisher, and date of publication (NR)",
+			"g": "Related parts (R)",
+			"i": "Relationship information (R)",
+			"h": "Physical description (NR)",
+			"k": "Series data for related item (R)",
+			"m": "Material-specific details (NR)",
+			"o": "Other item identifier (R)",
+			"n": "Note (R)",
+			"s": "Uniform title (NR)",
+			"r": "Report number (R)",
+			"u": "Standard Technical Report Number (NR)",
+			"t": "Title (NR)",
+			"w": "Record control number (R)",
+			"y": "CODEN designation (NR)",
+			"x": "International Standard Serial Number (NR)",
+			"z": "International Standard Book Number (R)"
+		},
+		"description": "Preceding Entry",
+		"ind2": {
+			"1": "Do not display note",
+			"0": "Display note"
+		}
+	},
+	"842": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"841": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"853": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"382": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"518": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"383": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"511": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"510": {
+		"ind1": {
+			"1": "Coverage complete",
+			"0": "Coverage unknown",
+			"3": "Location in source not given",
+			"2": "Coverage is selective",
+			"4": "Location in source given"
+		},
+		"subfields": {
+			"a": "Name of source (NR)",
+			"c": "Location within source (NR)",
+			"b": "Coverage of source (NR)",
+			"3": "Materials specified (NR)",
+			"u": "Uniform Resource Identifier (R)",
+			"8": "Field link and sequence number (R)",
+			"6": "Linkage (NR)",
+			"x": "International Standard Serial Number (NR)"
+		},
+		"description": "Citation/References Note(R)",
+		"ind2": {}
+	},
+	"513": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"515": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Numbering peculiarities note (NR)",
+			"8": "Field link and sequence number (R)",
+			"6": "Linkage (NR)"
+		},
+		"description": "Numbering Peculiarities Note (R)",
+		"ind2": {}
+	},
+	"514": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"385": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"588": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"1": "Surname",
+			"0": "Forename",
+			"3": "Family name"
+		}
+	},
+	"883": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"338": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"882": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"337": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"242": {
+		"ind1": {
+			"1": "Added entry",
+			"0": "No added entry"
+		},
+		"subfields": {
+			"a": "Title (NR)",
+			"c": "Statement of responsibility, etc. (NR)",
+			"b": "Remainder of title (NR)",
+			"h": "Medium (NR)",
+			"n": "Number of part/section of a work (R)",
+			"p": "Name of part/section of a work (R)",
+			"6": "Linkage (NR)",
+			"y": "Language code of translated title (NR)",
+			"8": "Field link and sequence number (R)"
+		},
+		"description": "Translation of Title by Cataloging Agency (R)",
+		"ind2": {
+			"1": "Printed or displayed",
+			"0": "Not printed or displayed"
+		}
+	},
+	"388": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"1": "Series traced",
+			"0": "Series not traced"
+		}
+	},
+	"258": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Issuing jurisdiction (NR)",
+			"8": "Field link and sequence number (R)",
+			"b": "Denomination (NR) ",
+			"6": "Linkage (NR)"
+		},
+		"description": "Philatelic Issue Data (R)",
+		"ind2": {
+			"#": "Not applicable/No information provided/Earliest available publisher",
+			"2": "Intervening publisher",
+			"3": "Current/latest publisher"
+		}
+	},
+	"055": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"1": "Item is not in NLM",
+			"0": "Item is in NLM",
+			"#": "No information provided"
+		}
+	},
+	"250": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Edition statement (NR)",
+			"8": "Field link and sequence number (R)",
+			"3": "Materials specified (NR)",
+			"b": "Remainder of edition statement (NR)",
+			"6": "Linkage (NR)"
+		},
+		"description": "Edition Statement (R)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"050": {
+		"ind1": {
+			"1": "Item is not in LC ",
+			"0": "Item is in LC",
+			"#": "No information provided "
+		},
+		"subfields": {
+			"a": "Classification number (R) ",
+			"8": "Field link and sequence number(R)",
+			"3": "Materials specified (NR)",
+			"b": "Item number (NR)",
+			"6": "Linkage (NR)"
+		},
+		"description": "Library of Congress Call Number (R)",
+		"ind2": {}
+	},
+	"045": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"254": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Musical presentation statement (NR)",
+			"8": "Field link and sequence number (R)",
+			"6": "Linkage (NR)"
+		},
+		"description": "Musical Presentation Statement (NR)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"255": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Statement of scale (NR)",
+			"c": "Statement of coordinates (NR)",
+			"b": "Statement of projection (NR)",
+			"e": "Statement of equinox (NR)",
+			"d": "Statement of zone (NR)",
+			"g": "Exclusion G-ring coordinate pairs (NR)",
+			"f": "Outer G-ring coordinate pairs (NR)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number (R)"
+		},
+		"description": "Cartographic Mathematical Data (R)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"854": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"542": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"856": {
+		"ind1": {
+			"#": "No information provided",
+			"1": "FTP",
+			"0": "Email?",
+			"3": "Dial-up",
+			"2": "Remote login (Telnet)?",
+			"4": "HTTP",
+			"7": "Method specified in subfield $2"
+		},
+		"subfields": {
+			"3": "",
+			"2": "",
+			"6": "",
+			"8": "",
+			"a": "Host name (R)?",
+			"c": "Compression information (R)",
+			"b": "Access number (R)",
+			"d": "Path (R)",
+			"f": "Electronic name (R)",
+			"i": "Instruction (R)?",
+			"h": "Processor of request (NR)?",
+			"k": "Password (NR)",
+			"j": "Bits per second (NR)?",
+			"m": "Contact for access assistance (R)",
+			"l": "Logon (NR)?",
+			"o": "Operating system (NR)",
+			"n": "Name of location of host (NR)",
+			"q": "Electronic format type (NR)?",
+			"p": "Port (NR)",
+			"s": "File size (R)",
+			"r": "Settings (NR)",
+			"u": "",
+			"t": "",
+			"w": "",
+			"v": "",
+			"y": "",
+			"x": "",
+			"z": ""
+		},
+		"description": "Electronic Location and Access (R)",
+		"ind2": {}
+	},
+	"850": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Holding institution (R)",
+			"8": "Field link and sequence number (R)"
+		},
+		"description": "Holding Institution (R)",
+		"ind2": {
+			"#": "No information provided",
+			"1": "Dewey Decimal classification",
+			"0": "Library of Congress classification",
+			"3": "Superintendent of Documents classification",
+			"2": "National Library of Medicine classification",
+			"5": "Title",
+			"4": "Shelving control number?",
+			"7": "Source specified in subfield $2",
+			"6": "Shelved separately",
+			"8": "Other scheme"
+		}
+	},
+	"886": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"852": {
+		"ind1": {
+			"#": "No information provided",
+			"1": "Dewey Decimal classification",
+			"0": "Library of Congress classification",
+			"3": "Superintendent of Documents classification",
+			"2": "National Library of Medicine classification",
+			"5": "Title",
+			"4": "Shelving control number?",
+			"7": "Source specified in subfield $2",
+			"6": "Shelved separately",
+			"8": "Other scheme"
+		},
+		"subfields": {
+			"3": "Materials specified (NR)",
+			"2": "Source of classification or shelving scheme (NR)?",
+			"6": "Linkage (NR)",
+			"8": "Sequence number (NR)",
+			"a": "Location (NR)",
+			"c": "Shelving location (R)",
+			"b": "Sublocation or collection (R)",
+			"e": "Address (R)",
+			"d": "Former shelving location (R)",
+			"g": "Non-coded location qualifier (R)",
+			"f": "Coded location qualifier (R)",
+			"i": "Item part (R)",
+			"h": "Classification part (NR)",
+			"k": "Call number prefix (R)",
+			"j": "Shelving control number (NR)",
+			"m": "Call number suffix (R)?",
+			"l": "Shelving form of title (NR)?",
+			"n": "Country code (NR)",
+			"q": "Piece physical condition (NR)?",
+			"p": "Piece designation (NR)?",
+			"s": "Copyright article-fee code (R)",
+			"u": "Uniform Resource Identifier (R)",
+			"t": "Copy number (NR)",
+			"x": "Nonpublic note (R)",
+			"z": "Public note (R)"
+		},
+		"description": "Location (R)",
+		"ind2": {}
+	},
+	"730": {
+		"ind1": {
+			"1": "Number of nonfiling characters",
+			"0": "Number of nonfiling characters",
+			"3": "Number of nonfiling characters",
+			"2": "Number of nonfiling characters",
+			"5": "Number of nonfiling characters",
+			"4": "Number of nonfiling characters",
+			"7": "Number of nonfiling characters",
+			"6": "Number of nonfiling characters",
+			"9": "Number of nonfiling characters",
+			"8": "Number of nonfiling characters"
+		},
+		"subfields": {
+			"a": "Uniform title(NR)",
+			"0": "Authority record control number or standard number(R)",
+			"d": "Date of treaty signing(R)",
+			"g": "Miscellaneous information(R)",
+			"f": "Date of a work(NR)",
+			"i": "Relationship information(R)",
+			"h": "Medium(NR)",
+			"k": "Form subheading(R)",
+			"m": "Medium of performance for music(R)",
+			"l": "Language of a work(NR)",
+			"o": "Arranged statement for music(NR)",
+			"n": "Number of part/section of a work(R)",
+			"p": "Name of part/section of a work(R)",
+			"s": "Version(NR)",
+			"r": "Key for music(NR)",
+			"5": "Institution to which field applies(NR)",
+			"t": "Title of a work(NR)",
+			"6": "Linkage (NR)",
+			"x": "International Standard Serial Number(NR)",
+			"8": "Field link and sequence number (R)",
+			"3": "Materials specified(NR)"
+		},
+		"description": "Added Entry-Uniform Title(R)",
+		"ind2": {
+			"1": "Number of nonfiling characters",
+			"0": "No nonfiling characters",
+			"3": "Number of nonfiling characters",
+			"2": "Number of nonfiling characters",
+			"5": "Number of nonfiling characters",
+			"4": "Number of nonfiling characters",
+			"7": "Number of nonfiling characters",
+			"6": "Number of nonfiling characters",
+			"9": "Number of nonfiling characters",
+			"8": "Number of nonfiling characters"
+		}
+	},
+	"884": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"540": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"656": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"657": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"654": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"541": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"653": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"508": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"1": "Coverage complete",
+			"0": "Coverage unknown",
+			"3": "Location in source not given",
+			"2": "Coverage is selective",
+			"4": "Location in source given"
+		}
+	},
+	"651": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Geographic name(NR)",
+			"e": "Relator term(R)",
+			"g": "Miscellaneous information(R)",
+			"6": "Linkage (NR)",
+			"0": "Authority record control number or standard number(R)",
+			"3": "Materials specified(NR)",
+			"2": "Source of heading or term(NR)",
+			"4": "Relator code(R)",
+			"v": "Form subdivision(R)",
+			"y": "Chronological subdivision(R)",
+			"x": "General subdivision(R)",
+			"z": "Geographic subdivision(R)",
+			"8": "Field link and sequence number (R)"
+		},
+		"description": "Subject Added Entry-Geographic Name(R)",
+		"ind2": {}
+	},
+	"506": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"507": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"504": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Bibliography, etc. note (NR)",
+			"8": "Field link and sequence number (R)",
+			"b": "Number of references (NR)",
+			"6": "Linkage (NR)"
+		},
+		"description": "Bibliography, Etc. Note (R)",
+		"ind2": {
+			"1": "Incomplete contents",
+			"0": "Contents",
+			"2": "Partial contents",
+			"8": "No display constant generated"
+		}
+	},
+	"505": {
+		"ind1": {
+			"1": "Incomplete contents",
+			"0": "Contents",
+			"2": "Partial contents",
+			"8": "No display constant generated"
+		},
+		"subfields": {
+			"a": "Formatted contents note (NR)",
+			"g": "Miscellaneous information (R)",
+			"r": "Statement of responsibility (R)",
+			"u": "Uniform Resource Identifier (R)",
+			"t": "Title (R)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number (R)"
+		},
+		"description": "Formatted Contents Note (R)",
+		"ind2": {}
+	},
+	"502": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Dissertation note (NR)",
+			"c": "Name of granting institution (NR)",
+			"b": "Degree type (NR)",
+			"d": "Year degree granted (NR)",
+			"g": "Miscellaneous information (R)",
+			"o": "Dissertation identifier (R)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number (R)"
+		},
+		"description": "Dissertation Note (R)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"500": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "General note (NR)",
+			"8": "Field link and sequence number (R)",
+			"3": "Materials specified (NR)",
+			"5": "Institution to which field applies (NR)",
+			"6": "Linkage (NR)"
+		},
+		"description": "General Note (R)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"501": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "With note (NR)",
+			"8": "Field link and sequence number (R)",
+			"5": "Institution to which field applies (NR)",
+			"6": "Linkage (NR)"
+		},
+		"description": "With Note (R)",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"061": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"060": {
+		"ind1": {
+			"1": "Item is not in NLM",
+			"0": "Item is in NLM",
+			"#": "No information provided"
+		},
+		"subfields": {
+			"a": "Classification number (R)",
+			"8": "Field link and sequence number(R)",
+			"b": "Item number (NR)"
+		},
+		"description": "National Library of Medicine Call Number (R)",
+		"ind2": {}
+	},
+	"751": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"544": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"066": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"561": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"562": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"545": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"565": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"567": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"844": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"546": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"843": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"222": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Key title (NR)",
+			"8": "Field link and sequence number(R)",
+			"b": "Qualifying information (NR)",
+			"6": "Linkage(NR)"
+		},
+		"description": "Key Title (R)",
+		"ind2": {
+			"1": "Printed or displayed",
+			"0": "Not printed or displayed"
+		}
+	},
+	"611": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"868": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"863": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"865": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"864": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"867": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"866": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"051": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"658": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"720": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"1": "Number of nonfiling characters",
+			"0": "Number of nonfiling characters",
+			"3": "Number of nonfiling characters",
+			"2": "Number of nonfiling characters",
+			"5": "Number of nonfiling characters",
+			"4": "Number of nonfiling characters",
+			"7": "Number of nonfiling characters",
+			"6": "Number of nonfiling characters",
+			"9": "Number of nonfiling characters",
+			"8": "Number of nonfiling characters"
+		}
+	},
+	"740": {
+		"ind1": {
+			"1": "Number of nonfiling characters",
+			"0": "No nonfiling characters",
+			"3": "Number of nonfiling characters",
+			"2": "Number of nonfiling characters",
+			"5": "Number of nonfiling characters",
+			"4": "Number of nonfiling characters",
+			"7": "Number of nonfiling characters",
+			"6": "Number of nonfiling characters",
+			"9": "Number of nonfiling characters",
+			"8": "Number of nonfiling characters"
+		},
+		"subfields": {
+			"a": "Uncontrolled related/analytical title (NR)",
+			"h": "Medium (NR)",
+			"n": "Number of part/section of a work (R)?",
+			"p": "Name of part/section of a work (R)",
+			"5": "Institution to which field applies (NR)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number (R)"
+		},
+		"description": "Added Entry-Uncontrolled Related/Analytical Title (R)",
+		"ind2": {}
+	},
+	"630": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"074": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"880": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"072": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"600": {
+		"ind1": {
+			"1": "Surname",
+			"0": "Forename",
+			"3": "Family name"
+		},
+		"subfields": {
+			"0": "Authority record control number or standard number(R)",
+			"3": "Materials specified(NR)",
+			"2": "Source of heading or term(NR)",
+			"4": "Relator code(R)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number (R)",
+			"a": "Personal name(NR)",
+			"c": "Titles and other words associated with a name(R)",
+			"b": "Numeration(NR)",
+			"e": "Relator term(R)",
+			"d": "Dates associated with a name(NR)",
+			"g": "Miscellaneous information(R)",
+			"f": "Date of a work(NR)",
+			"h": "Medium(NR)",
+			"k": "Form subheading(R)",
+			"j": "Attribution qualifier(R)",
+			"m": "Medium of performance for music(R)",
+			"l": "Language of a work(NR)",
+			"o": "Arranged statement for music(NR)",
+			"n": "Number of part/section of a work(R)",
+			"q": "Fuller form of name(NR)",
+			"p": "Name of part/section of a work(R)",
+			"s": "Version(NR)",
+			"r": "Key for music(NR)",
+			"u": "Affiliation(NR)",
+			"t": "Title of a work(NR)",
+			"v": "Form subdivision(R)",
+			"y": "Chronological subdivision(R)",
+			"x": "General subdivision(R)",
+			"z": "Geographic subdivision(R)"
+		},
+		"description": "Subject Added Entry-Personal Name(R)",
+		"ind2": {
+			"1": "Jurisdiction name",
+			"0": "Inverted name",
+			"2": "Name in direct order"
+		}
+	},
+	"070": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"071": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"555": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"556": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"550": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Issuing body note (NR)",
+			"8": "Field link and sequence number (R)",
+			"6": "Linkage (NR)"
+		},
+		"description": "Issuing Body Note (R)",
+		"ind2": {}
+	},
+	"552": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"878": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"876": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"877": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"754": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"845": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"#": "Undefined"
+		}
+	},
+	"321": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"753": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"775": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"1": "Do not display note",
+			"0": "Display note"
+		}
+	},
+	"774": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"777": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"1": "Do not display note",
+			"0": "Display note"
+		}
+	},
+	"088": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"1": "Surname",
+			"0": "Forename",
+			"3": "Family name"
+		}
+	},
+	"770": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"773": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"772": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"083": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"082": {
+		"ind1": {
+			"1": "Abridged edition",
+			"0": "Full edition",
+			"7": "Other edition specified in subfield $2"
+		},
+		"subfields": {
+			"a": "Classification number (R)",
+			"b": "Item number (NR)",
+			"m": "Standard or optional designation (NR)",
+			"q": "Assigning agency (NR)",
+			"2": "Edition number (NR)",
+			"6": "Linkage (NR)",
+			"8": "Field link and sequence number(R)"
+		},
+		"description": "Dewey Decimal Classification Number (R)",
+		"ind2": {}
+	},
+	"563": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"080": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"1": "Abridged edition",
+			"0": "Full edition",
+			"7": "Other edition specified in subfield $2"
+		}
+	},
+	"086": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"085": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"084": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"648": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"1": "Primary",
+			"0": "No level specified",
+			"#": "No information provided",
+			"2": "Secondary"
+		}
+	},
+	"655": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"263": {
+		"ind1": {
+			"#": "Undefined"
+		},
+		"subfields": {
+			"a": "Projected publication date (NR)",
+			"8": "Field link and sequence number (R)",
+			"6": "Linkage (NR)"
+		},
+		"description": "Projected Publication Date (NR)",
+		"ind2": {
+			"#": "Not applicable/No information provided/Earliest",
+			"2": "Intervening",
+			"3": "Current/Latest"
+		}
+	},
+	"800": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"357": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {
+			"1": "Unformatted note",
+			"0": "Formatted style"
+		}
+	},
+	"355": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"026": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"352": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"351": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	},
+	"516": {
+		"ind1": {},
+		"subfields": {},
+		"description": "",
+		"ind2": {}
+	}
+}

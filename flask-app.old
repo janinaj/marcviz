@@ -1,0 +1,73 @@
+import os
+from datetime import datetime
+from flask import Flask, request, flash, url_for, redirect, \
+     render_template, abort, send_from_directory
+from flask.ext.pymongo import PyMongo
+from bson.json_util import dumps
+
+app = Flask(__name__, static_url_path='/static')
+app.config.from_pyfile('flaskapp.cfg')
+
+app.config['MARC_DBNAME'] = 'marc'
+mongo = PyMongo(app, config_prefix='MARC')
+
+@app.route('/')
+def index():
+  return render_template('bar-new.html')
+
+##### VIEWS #####
+@app.route("/datafield/occurrence")
+def graph_datafield_occurrence():
+  return render_template('bar.html', subfield = subfield)
+
+@app.route("/subfield/<subfield>")
+def graph_subfield(subfield):
+  return render_template('bar-subfield.html', subfield = subfield)
+
+@app.route("/value/<subfield>")
+def graph_value(subfield):
+  print subfield
+  return render_template('bar.html', test = 'abc')
+
+
+##### DATA #####
+@app.route("/datafield_occurrence")
+def datafield_occurrence():
+  datafield_occurrence = mongo.db.mr_datafield_occurrence.find({})
+  return dumps(datafield_occurrence)
+
+@app.route("/datafield_count")
+def datafield_count():
+  datafield_count = mongo.db.mr_datafield_counts.find({})
+  return dumps(datafield_count)
+
+@app.route("/subfield_occurrence/<subfield>")
+def subfield_occurrence(subfield):
+  subfield_occurrence = mongo.db.mr_subfield_occurrence.find({'_id' : {'$regex': r'^' + subfield + "_.*"} })
+  return dumps(subfield_occurrence)
+
+@app.route("/subfield_count/<subfield>")
+def subfield_count(subfield):
+  subfield_count = mongo.db.mr_subfield_counts.find({'_id' : {'$regex': r'^' + subfield + '_.*' } })
+  return dumps(subfield_count)
+
+@app.route("/value_count/<subfield>")
+def value_count(subfield):
+  cursor = mongo.db.mr_value_counts.find({ '_id.field' : subfield })
+  value_count = []
+  for doc in cursor:
+    value_count.append({ '_id' : doc['_id']['value'], 'value' : doc['value']})
+  
+  return dumps(value_count)
+
+@app.route('/<path:resource>')
+def serveStaticResource(resource):
+    return send_from_directory('static/', resource)
+
+@app.route("/test")
+def test():
+    return "<strong>It's Alive!</strong>"
+
+if __name__ == '__main__':
+    app.debug = True
+    app.run()
